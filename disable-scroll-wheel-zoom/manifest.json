@@ -2,7 +2,7 @@
   "name": "Disable Scroll Wheel Zoom",
   "version": "1.0.0",
   "manifest_version": 2,
-  "description": "Disables the ctrl + scroll wheel zoom shortcut in Chrome. Tags: ctrl, control, shortcut, scroll wheel, scrollwheel, mosue wheel, mousewheel, disable, prevent, turn off, no",
+  "description": "Disables the ctrl + scroll wheel zoom shortcut in Chrome.",
   "homepage_url": "http://github.com/phparkle/disable-scroll-wheel-zoom",
   "icons": {
     "16": "images/icon16.png",
