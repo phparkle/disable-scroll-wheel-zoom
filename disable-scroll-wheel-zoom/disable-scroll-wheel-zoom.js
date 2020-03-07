@@ -1,8 +1,6 @@
-function wheelCallback(e) {
-	if (!e.ctrlKey)
-		return;
-	e.preventDefault();
-	e.stopPropagation();
-}
-window.addEventListener('wheel', wheelCallback, {passive: false});
-document.addEventListener('wheel', wheelCallback, {passive: false});
+document.addEventListener('wheel', function (e) {
+  if (!e.ctrlKey)
+    return;
+  e.preventDefault();
+  window.scrollBy(e.deltaX, e.deltaY);
+}, {passive: false});

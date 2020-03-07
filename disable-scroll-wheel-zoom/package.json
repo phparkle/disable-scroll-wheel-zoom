@@ -1,0 +1,29 @@
+{
+  "name": "disable-scroll-wheel-zoom",
+  "version": "1.1.0",
+  "description": "Disables the ctrl + scroll wheel zoom shortcut in Chrome.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phparkle/disable-scroll-wheel-zoom.git"
+  },
+  "keywords": [
+    "mouse",
+    "wheel",
+    "scroll",
+    "ctrl",
+    "control",
+    "chrome",
+    "web",
+    "store",
+    "extension",
+    "disable",
+    "no",
+    "lock"
+  ],
+  "author": "Parkle Lee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phparkle/disable-scroll-wheel-zoom/issues"
+  },
+  "homepage": "https://github.com/phparkle/disable-scroll-wheel-zoom#readme"
+}
