@@ -1,5 +1,5 @@
 {
-  "name": "Disable Scroll Wheel Zoom",
+  "name": "Disable Ctrl + Scroll Wheel Zoom",
   "version": "1.1.0",
   "manifest_version": 2,
   "description": "Disables the ctrl + scroll wheel zoom shortcut in Chrome.",
