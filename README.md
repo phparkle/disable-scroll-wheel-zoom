@@ -1,5 +1,5 @@
 
-### Disable Ctrl + Scroll Wheel Zoom 🚫 :wheel:
+### Disable Ctrl + Scroll Wheel Zoom 🚫 🔍
 
 
 Disables the ctrl + scroll wheel zoom shortcut in Chrome.
