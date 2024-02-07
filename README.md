@@ -24,6 +24,28 @@ This Chrome extension disables the Ctrl + scroll wheel zoom shortcut, preventing
 - Prevents accidental zooming in Chrome.
 - Smooth scrolling when Ctrl + scroll wheel is used.
 
+#### Project-Tree
+
+```
+.
+├── CODE_OF_CONDUCT.md
+├── LICENSE
+├── README.md
+├── images
+│   ├── icon128.png
+│   ├── icon16.png
+│   ├── icon48.png
+│   ├── icon96.png
+│   └── screenshot.png
+├── manifest.json
+├── package.json
+└── src
+    ├── disable-scroll-wheel-zoom.js
+    ├── disable-scroll-wheel-zoom.min.js
+    └── disable-scroll-wheel-zoom.v3.js
+
+```
+
 #### Installation
 
 To install this extension, follow these steps:
