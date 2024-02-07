@@ -37,7 +37,7 @@
     "matches": ["<all_urls>"],
     "run_at": "document_start",
     "all_frames": true,
-    "js": ["src/disable-scroll-wheel-zoom.min.js"]
+    "js": ["src/disable-scroll-wheel-zoom.v3.js"]
   }
 }
 
