@@ -15,4 +15,14 @@ document.addEventListener("wheel", function(event) {
             behavior: 'smooth'
         });
     }
+    // Check if the Ctrl key is pressed along with the "+" key
+    else if (event.ctrlKey && event.deltaY > 0) {
+        // Prevent the default browser behavior of zooming
+        event.preventDefault();
+    }
+    // Check if the Ctrl key is pressed along with the "-" key
+    else if (event.ctrlKey && event.deltaY < 0) {
+        // Prevent the default browser behavior of zooming
+        event.preventDefault();
+    }
 }, { passive: false }); // Specify that the event is not passive, allowing preventDefault() to be called
