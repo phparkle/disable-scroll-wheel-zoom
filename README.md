@@ -7,7 +7,9 @@ Disables the ctrl + scroll wheel zoom shortcut in Chrome.
 <img src="images/screenshot.png" alt="Logo" width="250">
 
 <sub>
+
 You can try out the extension on the [Chrome Web Store](https://chromewebstore.google.com/detail/mdpfkohgfpidohkakdbpmnngaocglmhl?hl=en&authuser=1). 
+
 </sub>
 
 [![Chrome Web Store](https://img.shields.io/chrome-web-store/v/mdpfkohgfpidohkakdbpmnngaocglmhl.svg?style=flat-square&label=Chrome%20Web%20Store&logo=google-chrome&logoColor=white)](https://chromewebstore.google.com/detail/mdpfkohgfpidohkakdbpmnngaocglmhl?hl=en&authuser=1)
