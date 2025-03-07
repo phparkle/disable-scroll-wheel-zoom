@@ -2,7 +2,7 @@
 
 Disables the ctrl + scroll wheel zoom shortcut in Chrome.
 
-<img src="images/screenshot.png" alt="Logo" width="250">
+<img src="disable-scroll-wheel-zoom/images/screenshot.png" alt="Logo" width="250">
 
 <sub>
 
