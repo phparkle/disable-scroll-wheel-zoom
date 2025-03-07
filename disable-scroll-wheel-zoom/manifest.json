@@ -1,0 +1,20 @@
+{
+  "manifest_version": 3,
+  "name": "Disable Ctrl + Scroll Wheel Zoom",
+  "version": "1.3",
+  "description": "Disables the ctrl + scroll wheel zoom shortcut in Chrome.",
+  "homepage_url": "http://github.com/phparkle/disable-scroll-wheel-zoom",
+  "icons": {
+    "16": "images/icon16.png",
+    "48": "images/icon48.png",
+    "128": "images/icon128.png"
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "run_at": "document_start",
+      "all_frames": true,
+      "js": ["src/disable-scroll-wheel-zoom.min.js"]
+    }
+  ]
+}

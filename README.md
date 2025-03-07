@@ -1,6 +1,4 @@
-
 ### Disable Ctrl + Scroll Wheel Zoom 🚫 🔍
-
 
 Disables the ctrl + scroll wheel zoom shortcut in Chrome.
 
@@ -14,6 +12,7 @@ You can try out the extension on the [Chrome Web Store](https://chromewebstore.g
 </sub>
 
 [![Chrome Web Store](https://img.shields.io/chrome-web-store/v/mdpfkohgfpidohkakdbpmnngaocglmhl.svg?style=flat-square&label=Chrome%20Web%20Store&logo=google-chrome&logoColor=white)](https://chromewebstore.google.com/detail/mdpfkohgfpidohkakdbpmnngaocglmhl?hl=en&authuser=1)
+
 
 #### Description
 
@@ -37,6 +36,7 @@ To install this extension, follow these steps:
 #### Contributing
 
 Contributions are welcome! Please feel free to submit a pull request or open an issue if you have any suggestions, bug reports, or feature requests.
+
 
 #### License
 
