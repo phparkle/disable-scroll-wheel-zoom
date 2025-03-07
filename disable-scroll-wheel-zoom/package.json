@@ -1,6 +1,6 @@
 {
   "name": "disable-scroll-wheel-zoom",
-  "version": "1.1.0",
+  "version": "1.2",
   "description": "Disables the ctrl + scroll wheel zoom shortcut in Chrome.",
   "repository": {
     "type": "git",
